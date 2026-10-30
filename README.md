@@ -29,6 +29,6 @@ software development, and technology.
 
 This repository serves as a collection of my academic project documentation and demonstrates my learning and practical experience in IT.
 
-## 📬 Contact
+## Contact
 
 Feel free to explore my documentation and connect with me through GitHub.
